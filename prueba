@@ -1,0 +1,3 @@
+#! /usr/env/python env
+
+print("hola mundo")
