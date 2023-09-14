@@ -1,0 +1,3 @@
+#!/usr/bin/python3 env
+
+print("Hola a todos")
