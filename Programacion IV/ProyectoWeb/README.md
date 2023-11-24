@@ -30,7 +30,7 @@
 	/elemento1/pruba1.csv	-> endpoint
 	/NikolaTesla/casas/casa1/habs/hP1/lamps/lamp1:on/off
 
-#METODOS - CRUD
+# METODOS - CRUD
 
 -	CREATE		->	POST 			-> 201
 -	READ 		->	GET				-> 200
