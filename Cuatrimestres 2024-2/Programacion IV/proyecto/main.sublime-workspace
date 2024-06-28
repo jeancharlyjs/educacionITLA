@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ci",
+				"\\cite"
+			],
+			[
+				"sh",
+				"schemas"
+			],
+			[
+				"footno",
+				"\\footnote"
+			],
+			[
+				"codigo_",
+				"codigo_distrito"
+			],
+			[
+				"distrito",
+				"distrito_tutor"
+			],
+			[
+				"moda",
+				"modalidad_docencia"
+			],
+			[
+				"modali",
+				"modalidad_docencia"
+			],
+			[
+				"distri",
+				"distrito_docente"
+			],
+			[
+				"regional",
+				"regional_docente"
+			],
+			[
+				"univ",
+				"universidad_formadora"
+			],
+			[
+				"unvi",
+				"universidad_formadora"
+			],
+			[
+				"cedula",
+				"cedula_docente"
+			],
+			[
+				"regio",
+				"regional_tutor"
+			],
+			[
+				"cedula_",
+				"cedula_docente"
+			],
+			[
+				"tipo_",
+				"tipo_encuentro_acomp"
+			],
+			[
+				"hora_",
+				"hora_inicio"
+			],
+			[
+				"dat",
+				"data_dict"
+			],
+			[
+				"respue",
+				"respueta2"
+			],
+			[
+				"modelsCuestiona",
+				"modelsCuestionarioGeneral"
+			],
+			[
+				"hora",
+				"hora_inicio"
+			],
+			[
+				"stat",
+				"status_code"
+			],
+			[
+				"for",
+				"formularioEvaluacionGeneral"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"gen",
+				"generarHash"
+			],
+			[
+				"has",
+				"hash_pass"
+			],
+			[
+				"tbperfil",
+				"tbperfildocente"
+			],
+			[
+				"perfil",
+				"tbperfiltutor"
+			],
+			[
+				"codigo",
+				"codigo_distrito"
+			],
+			[
+				"confi",
+				"configDB"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"valo",
+				"valor1"
+			],
+			[
+				"exe",
+				"executer1"
+			],
+			[
+				"lectu",
+				"lecturaArchivo"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"con",
+				"consultaCedulaDocente"
+			],
+			[
+				"colu",
+				"columnas_SCAT"
+			],
+			[
+				"lectura",
+				"lecturaArchivo"
+			],
+			[
+				"col",
+				"columnas_SCAT"
+			],
+			[
+				"proces",
+				"procesar_API"
+			],
+			[
+				"consulta",
+				"consultaCedulaDocente"
+			],
+			[
+				"consu",
+				"consultaDB"
+			],
+			[
+				"COLU",
+				"columnas_SCAT"
+			],
+			[
+				"read_",
+				"read_excel"
+			],
+			[
+				"codig",
+				"codigoregional"
+			],
+			[
+				"reD",
+				"read_excel"
+			],
+			[
+				"read",
+				"read_excel"
+			],
+			[
+				"selec",
+				"seleccionarFile"
+			],
+			[
+				"fecha",
+				"fechaIngresoEducacion"
+			],
+			[
+				"tiempo",
+				"tiempoFinalizacionPrograma"
+			],
+			[
+				"consul",
+				"consultaBaseDatosINAFOCAM"
+			],
+			[
+				"la",
+				"latitud"
+			],
+			[
+				"inclu",
+				"\\includegraphics"
+			],
+			[
+				"lag",
+				"\\LARGE"
+			],
+			[
+				"subse",
+				"\\subsection{}"
+			],
+			[
+				"lin",
+				"\\linewidth"
+			],
+			[
+				"lineh",
+				"\\linewidth"
+			],
+			[
+				"li",
+				"\\linewidth"
+			],
+			[
+				"flus",
+				"flushleft"
+			],
+			[
+				"table",
+				"\\tableofcontents"
+			],
+			[
+				"L",
+				"\\Large"
+			],
+			[
+				"dot",
+				"\\vdots"
+			],
+			[
+				"t",
+				"\\title"
+			],
+			[
+				"HU",
+				"\\Huge"
+			],
+			[
+				"sub",
+				"subsection"
+			],
+			[
+				"subsec",
+				"\\subsubsection*{}"
+			],
+			[
+				"sec",
+				"\\section{}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"latexmk",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"SETTIN",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/base.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/schemas/CuestionarioGeneralSchema.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/main.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsCuestionarioGeneral.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/manage.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/UNICARIBE/Economia I/Practicas/Practicas.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsAcompanamientoDocentes.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/static/assets/plugins/Flot/jquery.js",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/RED/Claro, ajustemos los productos para que estén más",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Transformación Digital/EsquemaDB.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/configDB.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsPerfilDocente.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/schemas/utilidades.py",
+		"/Users/jeancharlyjs/Documents/dev/highcharts/index.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/dashboard.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/index.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsCentroEducativos.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsNivel.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Script DB/ConsultaCedulaDesdeAPIMax.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/dashboard/index.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/prueba.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/UNICARIBE/Historia Dominicana/Trabajo Final/ProyectoFinal.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Florangel/ConsultaCedulaDesdeAPIMax.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/UNICARIBE/Redes/Practicas/Practicas.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/Encuentro_inicial.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsCuestionario.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/static/css/styles.css",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/Reflexion_crecimiento_personal.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Florangel/ConsultaCedulaDesdeAPIMax - PRUEBA.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/UNICARIBE/Redes/Practicas/ExamenFInal.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/error.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/static/js/script.js",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/static/js/script.js",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/Dockerfile",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/nginx/nginx.conf",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/Apoyo_a_la_evaluacion.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI - 2/FormularioPNI/app/manage.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI - 2/FormularioPNI/app/static/js/pni.js",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/inicio.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/Apoyo_a_la_planificacion.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/docker-compose.yml",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/cuestionario.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/Observacion_del_aula.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/index.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/ngrok.yml",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/formulario_evaluacion_general.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/errores.txt",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/models/modelsCuestionarioGeneral.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/templates/tipos_de_encuentros/Encuentro_inicial.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/templates/tipos_de_encuentros/Observacion_del_aula.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/login.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/templates/formulario_evaluacion_general.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/templates/login.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsUsuarios.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Departamento Investigacion/app/utilidades/lecturaCedulaMINERD.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/requirements.txt",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Departamento Investigacion/app/utilidades/DBConfigGENERAL.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/schemas/UsuariosSchema.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-InstitutoTecnológicodeLasAméricas(ITLA)/Introduccion a la Inteligencia Artificial/prueba.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/UNICARIBE/Marketing/Practicas/Practicas.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tutores.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/backup/backup_2024-04-27-14-24-48.sql",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/app.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/templates/tipos_de_encuentros/tutores.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/Documentacion.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/main.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/models/modelsModalidad.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/models/ModelsCuestionario.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/UNICARIBE/Marketing/Practicas.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/schemas/SectorSchema.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsModalidad.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsDistrito.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/importaciones.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsRegional.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsSector.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsTutor.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsUniversidad.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/modelsZona.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/models/__init__.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Desarrollo/FormularioPNI/app/__init__.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/main.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/configDB.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/models.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/schemas.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/Dockerfile",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/docker-compose.yml",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/config/configDB.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/models/modelsZona.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/config/configDB.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/__init__.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/app/untitled",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/templates/formulario_evaluacion_general.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/main.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsPerfilDocente.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsTutor.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsCuestionarioGeneral.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/schemas/CuestionarioGeneralSchema.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/requirements.txt",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/config/.configuracionPNI",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsCentroEducativos.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/Emegerncia 911/schemas/perfilConductorSchema.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/GoogleDrive-jeancharlyjs@gmail.com/Other computers/My Laptop/Google Drive/UNICARIBE/Marketing/Trabajo Final/ProyectoFinal.tex",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/ModelsCuestionario.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsUniversidad.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsModalidad.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsNivel.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/Desarrollo/FormularioPNI/config/configDB.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Script DB/ConsultaAPIMINERD.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Script DB/ConsultaCedulaDesdeAPIMax - PRUEBA.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/utilidades/configDB.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/templates/tutores.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Equipo Analisis de datos INAFOCAM/prueba1.sql",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/src/app.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Script DB/Plataforma de Validacion/app.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Script DB/Plataforma de Validacion/utilidades/validacionMinerd.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/ProyectoBecas/src/itl.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Departamento Investigacion/app/utilidades/DBConfig.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Script DB/Plataforma de Validacion/utilidades/__init__.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/Script DB/Plataforma de Validacion/utilidades",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/templates/index.html",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/__init__.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsSector.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/.variablesEntorno",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsDistrito.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsRegional.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/modelsZona.py",
+		"/Users/jeancharlyjs/Library/CloudStorage/OneDrive-INAFOCAM/FormularioPNI/models/__init__.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 86.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 358.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
